@@ -1,13 +1,8 @@
 <html>
 <h1> Hello Krishna </h1>
 <h1> Welcome to Simple DevOps Project !! </h1>
-<!-- Text between angle brackets is an HTML tag and is not displayed.
-<h2> testing 20/12/2020 23.11</h2>
-</html>
-<html>
-Most tags, such as the HTML and /HTML tags that surround the contents of
+<h2> testing 20/12/2020 00.16</h2>
 <h2> Deploying on a kubernetes using ansible </h2>
-a page, come in pairs; some tags, like HR, for a horizontal rule, stand 
 <h2> ansible-playbook -i hosts create-docker-pull-hub.yml --limit </h2>
 <!-- Text between angle brackets is an HTML tag and is not displayed.
 Most tags, such as the HTML and /HTML tags that surround the contents of
