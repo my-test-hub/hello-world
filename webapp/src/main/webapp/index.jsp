@@ -28,6 +28,6 @@ Break up your page with a horizontal rule or two. </p>
 <hr>
 <p>Finally, link to <a href="page2.html">another page</a> in your own Web site.</p>
 <!-- And add a copyright notice.-->
-<p>&#169; Wiley Publishing, 2011</p>
+<p>&#169; Krihna Publishing, 2020</p>
 </body>
 </html>
